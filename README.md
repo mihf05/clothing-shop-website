@@ -34,10 +34,3 @@ Windows:
 git clone https://github.com/md-irfan-hasan-fahim/clothing-shop-website.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/md-irfan-hasan-fahim).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
